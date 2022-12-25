@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+li{
+    color: aliceblue;
+}
+
+.container{
+    text-align: center;
+}
+
+footer{
+    height: 5rem;
+    background-color: black;
+    color: aliceblue;
+}
+
+p{
+    margin: auto;
+    float: left;
+}
+
+a,p{
+    display: inline-block;
+    margin: auto 10px;
+}
+
+a{
+    margin: auto 10px;
+}
+
+.small{
+    height: 30px;
+    width: 50px;
+    margin-left: 10px;
+}
